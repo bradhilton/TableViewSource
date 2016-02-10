@@ -1,11 +1,9 @@
 //
-//  TableViewSource.h
+//  TableViewSectionInterfaceSource.swift
 //  TableViewSource
 //
 //  Created by Bradley Hilton on 2/9/16.
 //  Copyright © 2016 Brad Hilton. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
-
-
+import Foundation

@@ -37,6 +37,7 @@
 		A28E521A1C6BA008007FECA7 /* TableViewSectionsSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = A28E52191C6BA008007FECA7 /* TableViewSectionsSource.swift */; };
 		A28E521C1C6BA07F007FECA7 /* TableViewSectionsSource+Delegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A28E521B1C6BA07F007FECA7 /* TableViewSectionsSource+Delegate.swift */; };
 		A28E521E1C6BA08C007FECA7 /* TableViewSectionsSource+DataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = A28E521D1C6BA08C007FECA7 /* TableViewSectionsSource+DataSource.swift */; };
+		A28E52201C6BA9B6007FECA7 /* TableViewSource.podspec in Resources */ = {isa = PBXBuildFile; fileRef = A28E521F1C6BA9B6007FECA7 /* TableViewSource.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -72,6 +73,7 @@
 		A28E52191C6BA008007FECA7 /* TableViewSectionsSource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewSectionsSource.swift; sourceTree = "<group>"; };
 		A28E521B1C6BA07F007FECA7 /* TableViewSectionsSource+Delegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "TableViewSectionsSource+Delegate.swift"; sourceTree = "<group>"; };
 		A28E521D1C6BA08C007FECA7 /* TableViewSectionsSource+DataSource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "TableViewSectionsSource+DataSource.swift"; sourceTree = "<group>"; };
+		A28E521F1C6BA9B6007FECA7 /* TableViewSource.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = TableViewSource.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 		A23A22021C6A62CA005E4020 = {
 			isa = PBXGroup;
 			children = (
+				A28E521F1C6BA9B6007FECA7 /* TableViewSource.podspec */,
 				A23A220D1C6A62CA005E4020 /* Products */,
 				A23A220E1C6A62CA005E4020 /* TableViewSource */,
 			);
@@ -279,6 +282,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A28E52201C6BA9B6007FECA7 /* TableViewSource.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

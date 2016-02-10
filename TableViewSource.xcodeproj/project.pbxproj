@@ -104,14 +104,14 @@
 		A23A220E1C6A62CA005E4020 /* TableViewSource */ = {
 			isa = PBXGroup;
 			children = (
-				A28E52181C6B9FF3007FECA7 /* TableViewSectionsSource */,
-				A28E52131C6ACD9C007FECA7 /* TableViewSourcesSource */,
 				A28E52111C6ACB6E007FECA7 /* NSIndexPath */,
 				A28E52101C6ACB5D007FECA7 /* TableViewInterface */,
 				A28E52121C6ACB8F007FECA7 /* TableViewInterfaceSource */,
 				A28E520F1C6ACB4C007FECA7 /* TableViewRowSource */,
 				A28E520E1C6ACB3B007FECA7 /* TableViewSectionSource */,
+				A28E52181C6B9FF3007FECA7 /* TableViewSectionsSource */,
 				A28E520D1C6ACB2F007FECA7 /* TableViewSource */,
+				A28E52131C6ACD9C007FECA7 /* TableViewSourcesSource */,
 				A28E520C1C6ACB19007FECA7 /* UITableView */,
 				A23A22111C6A62CA005E4020 /* Info.plist */,
 				A23A220F1C6A62CA005E4020 /* TableViewSource.h */,
@@ -194,21 +194,21 @@
 		A28E52131C6ACD9C007FECA7 /* TableViewSourcesSource */ = {
 			isa = PBXGroup;
 			children = (
-				A28E52081C6ACA7C007FECA7 /* TableViewSourcesSource.swift */,
-				A28E52141C6ACDC0007FECA7 /* TableViewSourcesSource+Delegate.swift */,
 				A28E52161C6ACDD3007FECA7 /* TableViewSourcesSource+DataSource.swift */,
+				A28E52141C6ACDC0007FECA7 /* TableViewSourcesSource+Delegate.swift */,
+				A28E52081C6ACA7C007FECA7 /* TableViewSourcesSource.swift */,
 			);
-			name = TableViewSourcesSource;
+			path = TableViewSourcesSource;
 			sourceTree = "<group>";
 		};
 		A28E52181C6B9FF3007FECA7 /* TableViewSectionsSource */ = {
 			isa = PBXGroup;
 			children = (
-				A28E52191C6BA008007FECA7 /* TableViewSectionsSource.swift */,
-				A28E521B1C6BA07F007FECA7 /* TableViewSectionsSource+Delegate.swift */,
 				A28E521D1C6BA08C007FECA7 /* TableViewSectionsSource+DataSource.swift */,
+				A28E521B1C6BA07F007FECA7 /* TableViewSectionsSource+Delegate.swift */,
+				A28E52191C6BA008007FECA7 /* TableViewSectionsSource.swift */,
 			);
-			name = TableViewSectionsSource;
+			path = TableViewSectionsSource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
